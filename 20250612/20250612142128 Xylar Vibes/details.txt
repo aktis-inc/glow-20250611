@@ -1,0 +1,44 @@
+title = Xylar Vibes
+genre = World & Electronic
+description = Xylar's beat connects past and future, merging traditional Santali rhythms with a modern twist. Dance to the vibrant fusion.
+prompt = Energetic dance track with a Santali fusion, upbeat rhythm, vibrant percussion, catchy melodies, traditional Santali instruments blended with modern electronic elements, male and female vocals, 130 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant fusion of traditional and modern, colorful abstract patterns with Santali motifs, dynamic and lively composition, featuring futuristic elements
+sfx = vibrant percussion, tribal drum beats, electronic synth swirls, ambient nature sounds
+vocals = female vocal, dynamic and rhythmic, traditional and modern blend
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #santali #fusion #dance #electronic #worldmusic #traditional #modern #beat #vibes #tribal #percussion #colorful #dynamic #soundtrack #ost
+codeName = Xylar
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Santali Sound ST - dj || Super Hit 2023 || Latest Santali Dj Song 2022 🥰. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = [intro percussion]
+
+[verse]
+
+[tribal echo]
+
+[chorus]
+
+oooooo iiiiiii
+
+[verse]
+
+[drop - fusion]
+
+[bridge]
+
+oooooo aaaa
+
+[outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

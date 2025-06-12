@@ -1,0 +1,26 @@
+title = Liora's Gallop
+genre = Pop
+description = Riding through thoughts, vibrant and alive, the pulse of the city gallops with our dreams. Inspired by Газманов’s essence.
+prompt = High-energy pop beat with dynamic synths, driving bass, rhythmic percussion, vibrant and uplifting melodies, male and female vocals, inspired by Газманов, 130 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant and futuristic cityscape at sunset, with neon lights reflecting off glass buildings, a horse silhouette in motion, blending traditional and modern elements, dynamic and uplifting
+sfx = hoofbeats echoing, wind rushing, digital synth sweeps, rhythmic claps
+vocals = male vocal, energetic singing, layered harmonies, powerful and uplifting
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #pop #synthpop #dance #electropop #uplifting #rhythmic #modern #vibrant #Газманов #cityvibes #futuristic #dynamic
+codeName = Liora
+bpm = 130
+genreInput = Поп 
+promptInput = Газманов, мои мысли мои скакуны
+language = english
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250605
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

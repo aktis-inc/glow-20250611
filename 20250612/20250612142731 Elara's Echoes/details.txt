@@ -1,0 +1,26 @@
+title = Elara's Echoes
+genre = Gothic Rock
+description = Whispers in the shadows, echoes of the past. Elara guides you through the haunted halls.
+prompt = Energetic rock with a dark, haunting atmosphere, fast-paced guitar riffs, driving bassline, intense drums, male vocal in the style of Korol i Shut, 150 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Haunted mansion on a hill under a stormy sky, lightning striking in the background, eerie and atmospheric with gothic elements, modern and edgy visual style
+sfx = thunderclap, creaking doors, wind howling, ghostly whispers
+vocals = male vocal, deep and resonant, with a hint of theatrical drama
+vocalsStructured = rock step track, with a dynamic intro and a powerful outro including some intense drops, with expressive male vocal
+keywords = #rock #gothicrock #punk #alternative #darkwave #haunted #theatrical #KorolShut #ghostly #ominous #highenergy #soundtrack #ost
+codeName = Elara
+bpm = 150
+genreInput = 
+promptInput = Track inspired by Король и Шут - Проклятыи старыи дом HD Remastered. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,48 @@
+title = Brion Echoes
+genre = Cinematic
+description = In the heart of the city, echoes of the past resonate. Brion's journey through neon dreams.
+prompt = Energetic cinematic soundscape, intense orchestral build, powerful percussion, deep resonant strings, atmospheric synth layers, in the style of Devara - Trailer BGM, 130 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, neon reflections on glass, ethereal glow, cinematic perspective, vibrant light trails, modern and dynamic
+sfx = thunderous drum impacts, distant echoes, rising synth swells, atmospheric whooshes
+vocals = ethereal female vocal, haunting melodies, layered harmonies
+vocalsStructured = cinematic track, with strong intro and epic outro including dramatic rises, with ethereal female vocal
+keywords = #cinematic #soundtrack #orchestral #trailer #epic #atmospheric #synthwave #ambient #neon #futuristic #Devara
+codeName = Brion
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Devara - Trailer BGM || Devara Ringtone || Download link ⤵ VLN. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = [intro - Rising Tension]
+
+[orchestral sweep]
+oooooo
+
+[verse - Neon Dream]
+In shadows cast by glass towers
+Echoes call through the neon glow
+iiiii oooooo
+
+[bridge - Ethereal Lift]
+Strings weave tales of forgotten times
+Rising synths, a promise of dawn
+
+[chorus - Brion's Call]
+aahhhhhhh iiiiiii
+Voices whisper through the city
+ooooo aaaa
+
+[outro - Echoes Fade]
+[soft synth echo]
+Dreams linger as the night unfolds
+shhhhhhh iiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

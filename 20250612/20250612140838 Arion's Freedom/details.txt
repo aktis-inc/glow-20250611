@@ -1,0 +1,55 @@
+title = Arion's Freedom
+genre = Rock
+description = Arion stands on the precipice, the wind carries his voice across the wild expanse. An anthem of liberation resounds.
+prompt = Energetic rock anthem, powerful guitar riffs, intense drum beats, soaring melodies, emotional male vocals, in the style of Кипелов - Я свободен, 140 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A lone figure standing on a cliff's edge, arms outstretched, overlooking a vast and wild landscape, dramatic lighting, bold and intense colors, epic and freeing atmosphere
+sfx = thunderous drum hits, roaring guitar feedback, distant eagle cries, wind gusts
+vocals = male vocal, powerful and emotional delivery, echoing harmonies, intense and heartfelt
+vocalsStructured = rock anthem track, with a strong intro and climactic outro, featuring powerful male vocals and dramatic instrumental breaks
+keywords = #rock #metal #anthem #powerballad #guitar #drums #epic #emotional #freedom #kipelov #russianrock #intense #liberation #symphonic
+codeName = Arion
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Кипелов - Я свободен. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = A
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = [intro build]
+
+[verse]
+Beyond the edge, I find my voice  
+Winds of change, my heart's own choice  
+Through the storm, I rise anew  
+
+[chorus]
+oooooo  
+Freedom calls, echoes wide   
+I am more than fate's design  
+iiiiiiii  
+
+[bridge]
+Breaking chains that held me down  
+Flight begins, no turning round  
+Ahhhhhh  
+
+[guitar solo]
+
+[verse 2]
+On this path, I carve my name  
+In the sky, an endless flame  
+Every note, a story told  
+
+[outro]
+ooooooooo  
+Echoes fade, yet I remain  
+Free at last, in my own way  
+[fade out]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

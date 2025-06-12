@@ -1,0 +1,26 @@
+title = Celara Flight
+genre = Synthwave
+description = Soar through memories, a dance in the sky. Celara echoes with the freedom of flight.
+prompt = Energetic retro-synth wave with a nostalgic vibe, reminiscent of 80s Soviet TV music. Upbeat tempo with catchy synth melodies, rhythmic basslines, and soft percussive elements. Incorporate sounds of soaring and freedom, male and female vocals, 120 BPM.
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A dreamy landscape with a hang glider silhouetted against a vibrant sunset sky, neon hues blending with soft pastels. Futuristic yet nostalgic, capturing the essence of 80s retro-futurism.
+sfx = wind rushing, gentle synth sweeps, distant chimes, soft orchestral swells
+vocals = male vocal, soft rhythmic lines, gentle harmonies, reminiscent of 80s pop
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #synthwave #retrowave #80snostalgia #sovietvibes #electropop #dreamwave #soundtrack #cinematic #nostalgic #freedom #soaring #hangglider #retroaesthetic
+codeName = Celara
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Музыка на советском телевидении - Валерии Леонтьев "Полет на дельтаплане". Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250605
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,46 @@
+title = Quello Harmony
+genre = Ambient Pop
+description = Quello Harmony envelops you in a gentle embrace, where each note whispers a story of connection and serenity. Inspired by the enchanting style of Ishq Hai.
+prompt = Melodic fusion with a soothing and atmospheric vibe, inspired by the musical style of Ishq Hai. Gentle acoustic guitar, soft piano melodies, and warm ambient textures. Smooth transitions, deep emotional layers, male and female vocals, 110 BPM.
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A serene landscape with gentle waves and a golden sunset. Blending contemporary and dreamy vibes with warm colors and soft focus, creating a captivating and tranquil visual.
+sfx = gentle waves crashing, soft wind rustling, distant chimes, ambient murmurs
+vocals = male and female vocal, gentle harmonies, soft and emotional delivery
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocal
+keywords = #acoustic #ambient #fusion #worldmusic #softpop #chillout #soundtrack #serene #emotional #mellowvibes #ishqhai
+codeName = Quello
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Ishq Hai - Anurag Saikia, Romy, Amarabha , Varun J, Madhubanti B | Mismatched: Season 3. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = [intro waves]
+
+[verse 1]
+Gentle breeze, whispers in the night
+Carrying dreams, on a moonlit tide
+oooooo
+
+[chorus]
+Hearts align, like stars above
+Quello harmony, in a sea of love
+iiiii
+
+[bridge]
+Echoes of moments, softly they sway
+In the silence, we find our way
+ahhhh
+
+[outro]
+Fading light, as the night takes hold
+Quello's song, forever told
+oooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

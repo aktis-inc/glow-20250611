@@ -1,0 +1,26 @@
+title = Olaris Beatscape (Olaris Beatscape)
+genre = Trap & World
+description = In the heart of the city, ancient rhythms merge with modern beats, creating a sonic tapestry that dances through the night.
+prompt = Energetic trap beat fused with traditional Indonesian instruments, deep bass, dynamic percussion, vibrant rhythm, male and female vocals, capturing the essence of musikOsing style, 140 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape with traditional Indonesian motifs, neon lights reflecting off traditional instruments, vibrant and dynamic, blending modern and cultural elements
+sfx = traditional drum beats, electronic bass drops, nature sounds, ambient crowd chatter
+vocals = female vocal, rhythmic chanting, traditional melodies, layered harmonies
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #trap #worldmusic #traditionalfusion #electronic #bass #musikOsing #Indonesianvibes #culturalbeat #modernheritage #eclecticrhythm #cinematic #soundtrack #ost
+codeName = Olaris
+bpm = 140
+genreInput = 
+promptInput = Track inspired by musikOsing - BANYUWANGI FULL ALBUM ~ TRAP X MIDDLE KEMROTOK || DJ BASS BLIYUT. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = O
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,26 @@
+title = Liora's Echo (Gema Liora)
+genre = Pop
+description = Like a whisper across time, Liora's Echo resonates with the heart's hidden desires. Influenced by Ipul Singo, this track bridges tradition and modernity.
+prompt = High-energy pop dance track, inspired by Dibatas Rindu - Ipul Singo, similar musical vibe and mood, rich instrumental layers, dynamic beats, soulful melodies, use of ethnic instruments, male and female vocals, 130 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant cityscape at sunset, blending traditional and modern elements, neon lights reflecting on water, captivating and colorful with a futuristic twist
+sfx = gentle river flow, distant city hum, soft ethnic percussion, ambient crowd chatter
+vocals = female vocal, melodic and ethereal, with contemporary pop influences
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #pop #worldmusic #fusion #ethnicpop #contemporary #soundtrack #ost #vibrant #soulful #dance #ipulsingo
+codeName = Liora
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Dibatas Rindu - Ipul Singo. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

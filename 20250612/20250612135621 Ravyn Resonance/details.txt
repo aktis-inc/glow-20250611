@@ -1,0 +1,62 @@
+title = Ravyn Resonance
+genre = Pop
+description = In the heart's echo, the world fades away. Amidst vibrant dreams, emotion resonates.
+prompt = High-energy pop ballad, emotional and soulful, rich acoustic guitar layers, deep bass, rhythmic percussion, dynamic male and female vocals, in the style of Atif Aslam and Himesh Reshammiya, 130 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A surreal landscape with vibrant colors, swirling clouds and glowing orbs, modern and futuristic with an emotional depth, visually striking and captivating
+sfx = soft wind chimes, distant heartbeats, gentle whispers, echoing guitar strums
+vocals = male vocal, emotional and expressive, subtle harmonies, warm and rich tones
+vocalsStructured = pop ballad track, with strong intro and emotional outro, including impactful drops, with melodic male and female vocal interplay
+keywords = #pop #ballad #soulful #emotional #acoustic #indianpop #atifaslam #himeshreshammiya #soundtrack #ost #cinematic #dreamscape #vibrantvibes
+codeName = Ravyn
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Atif Aslam - Dil Meri Na Sune | Saari Duniya Se Mujhe Kya Lena Hai | Himesh Reshammiya Songs. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = R
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = [intro - Soft Echo]
+wooooo  
+iiiiii 
+
+[verse 1 - Dream Whisper]  
+Heart in echoes, silent beat  
+World fades, dreams entwine  
+In this moment, all aligns  
+oooooo
+
+[Pre-Chorus - Rising Pulse]  
+soft whispers flow  
+In the night, emotions glow  
+iiiiiiiiii
+
+[Chorus - Ravyn's Call]  
+wooooo  
+Heartbeats collide, worlds apart  
+In this space, love imparts  
+ooooooo
+
+[Bridge - Ethereal Drift]  
+Floating high, in vibrant streams  
+Lost in time, vibrant dreams  
+shhhhhh  
+aaaaaaa
+
+[verse 2 - Soul's Echo]  
+In the silence, find the truth  
+Dreams unfold, love's sweet proof  
+iiiiiiiiii
+
+[outro - Resonance Fade]  
+oooooo  
+iiiiiiiiiiii  
+Emotions linger, echoes stay  
+In the heart, forever play
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

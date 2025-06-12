@@ -1,0 +1,26 @@
+title = Quilla Vibe (Vibra Quilla)
+genre = Reggaeton
+description = Quilla Vibe dances through moonlit shores. A tropical beat echoes under the stars, inspired by BAD BUNNY's unforgettable flair.
+prompt = Energetic reggaeton with a vibrant and unforgettable vibe, rhythmic percussion, deep bassline, tropical synths, male vocals, in the style of BAD BUNNY - BAILE INoLVIDABLE, 95 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A lively beach party scene with neon lights and palm trees, tropical colors with a modern twist, vibrant and dynamic atmosphere
+sfx = waves crashing, tropical bird calls, distant party chatter, rhythmic clapping
+vocals = male vocal with rhythmic flow, warm tones, dynamic energy, vibrant expression
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male vocal
+keywords = #reggaeton #latin #urbano #dancehall #traplatino #tropical #partyvibes #latinpop #badbunny #beachparty #summerbeats #vibrantmood
+codeName = Quilla
+bpm = 95
+genreInput = 
+promptInput = Track inspired by BAD BUNNY - BAILE INoLVIDABLE _ DeBI TiRAR MaS FOToS. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

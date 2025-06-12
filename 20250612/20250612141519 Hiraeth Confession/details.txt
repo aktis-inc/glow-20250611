@@ -1,0 +1,26 @@
+title = Hiraeth Confession (Confesión de Hiraeth)
+genre = Electropop
+description = A whisper in the night, longing beneath neon skies. Echoes of a heart's confession in a city that never sleeps.
+prompt = Energetic, high-energy vibe with a blend of electronic and pop elements, deep bass and rhythmic synths, male and female vocals, in the style of LIM KIM - Confess To You, 120 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at twilight, neon lights reflecting on rain-soaked streets, ethereal and dreamlike atmosphere, blending traditional and modern elements
+sfx = rainfall patter, distant city hum, electronic chimes, soft whispers
+vocals = female vocal, ethereal and smooth, layered with harmonizing echoes
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #electropop #synthwave #dreampop #alternative #indiepop #limkim #soundtrack #cinematic #neonvibes #ethereal #confession
+codeName = Hiraeth
+bpm = 120
+genreInput = 
+promptInput = Track inspired by LIM KIM - Confess To You. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = H
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

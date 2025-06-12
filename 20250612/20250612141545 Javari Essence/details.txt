@@ -1,0 +1,52 @@
+title = Javari Essence
+genre = World & Electronic
+description = Javari Essence captures the soul of ancient rhythms with a modern twist, a dance of cultures in harmony and spirit.
+prompt = Energetic and vibrant track with a Middle Eastern influence, rich with traditional instruments such as the oud and darbuka, blended with modern electronic elements, deep bass, and rhythmic percussion. Male and female vocals, 115 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A mesmerizing dance of swirling colors and patterns, inspired by Middle Eastern art. Futuristic and mystical, with gold and deep blue hues, intricate geometric designs, and a sense of movement and flow.
+sfx = soft wind chimes, rhythmic clapping, distant market sounds, flowing water
+vocals = male and female duet, harmonious blend, traditional Middle Eastern scales
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocals
+keywords = #worldmusic #fusion #middleeastern #electronic #ambient #ethereal #soundtrack #cinematic #oud #mystical #vibrant #culturalfusion #tranquilvibes
+codeName = Javari
+bpm = 115
+genreInput = 
+promptInput = Track inspired by Islamic Edits - Kun Anta🥀 || Beautiful WhatsApp Status shorts. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+
+lyrics = [intro - harmonic waves]
+
+[verse - Desert Echoes]
+Oasis dreams, under the stars
+Whispered tales, from afar
+Javari flows, in this night
+Echoing souls, in moonlight
+oooooo aaaaa
+
+[chorus - Harmonic Dance]
+Dance with the wind, feel the earth
+Rhythms of old, in rebirth
+Javari Essence, calls to you
+In every note, stories true
+iiiii oooooo
+
+[bridge - Cultural Flow]
+Voices rise, with the dawn
+Ancient paths, now reborn
+Javari's heart, beats anew
+Unity's song, in the view
+shhhhhh aaaaa
+
+[outro - Rhythmic Fade]
+ooooo iiiii
+Javari... Esssssssenceee
+shhhhhh oooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

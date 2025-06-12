@@ -1,0 +1,26 @@
+title = Quorra's Voyage (El Viaje de Quorra)
+genre = Electronic
+description = Under neon skies, the city pulses with rhythm. A journey begins in the heart of the digital world.
+prompt = Energetic electronic dance track, deep bass drops, intricate synth melodies, futuristic vibes, male and female vocals, 130 BPM
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, neon lights reflecting on wet streets, cyberpunk aesthetic, bold and vibrant colors, dynamic motion
+sfx = electronic beeps, city ambiance, distant thunderclaps, futuristic car zoom
+vocals = female vocal, ethereal harmonies, echoing whispers, upbeat and vibrant
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = #electronic #dance #synthwave #cyberpunk #futuristic #neon #bassmusic #clubvibes #EDM #dancefloor #cyberspace #synthpop #electropop #vibrant
+codeName = Quorra
+bpm = 130
+genreInput = 
+promptInput = 
+language = spanish
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250605
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.
